@@ -1,0 +1,15 @@
+node_modules
+node_modules/
+node_module
+node_module/
+.env
+.vscode
+.cache
+.cache/
+.logs/*.log
+dist
+dist/
+ISSUE_TEMPLATE.MD
+CHANGELOG.MD
+Documentation
+Documentation/
